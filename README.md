@@ -17,7 +17,7 @@ The main focus was to:
 **Source:** https://www.kaggle.com/datasets/thedevastator/240000-household-electricity-consumption-records
 
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 * Python (Google Colab)
 * pandas
